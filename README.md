@@ -6,6 +6,9 @@ This project demonstrates a simple security incident response workflow that rece
 
 ---
 
+![n8n Workflow Overview](secResponse.png)
+![n8n Workflow Overview](secResponse_01.png)
+
 ## Project Overview
 
 The goal of this project is to create a lightweight security incident response automation system.
